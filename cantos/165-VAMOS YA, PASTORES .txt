@@ -1,0 +1,45 @@
+VAMOS YA, PASTORES 	Mi	m
+VAMOS A BELÉN,	Si	7
+QUE HA NACIDO UN NIÑO,	Mi	m
+SE LLAMA EMMANUEL.	Mi	m
+SE LLAMA EMMANUEL,	Mi	m
+SE LLAMA EMMANUEL,	Si	7
+VAMOS YA, PASTORES,	Mi	m
+VAMOS A BELÉN.	Mi	m
+PA RA RAM PAM PAM,	Si	7
+PA RA RAM PAM PAM.	Mi	m
+Los pobres ya cantan,	Mi	m
+los niños ya ríen.	Si	7
+Los pobres ya cantan,	Mi	m
+los niños ya ríen.	Si	7
+ALEGRÍA, ALEGRÍA,	Mi	m
+ALEGRÍA, ALEGRÍA.	Si	7
+ALEGRÍA, ALEGRÍA:	Mi	m
+HA NACIDO EL SALVADOR.	Mi	m
+VAMOS YA, PASTOREs... 	Mi	m
+VAMOS A BELÉN,	Si	7
+QUE HA NACIDO UN NIÑO,	Mi	m
+SE LLAMA EMMANUEL.	Mi	m
+SE LLAMA EMMANUEL,	Mi	m
+SE LLAMA EMMANUEL,	Si	7
+VAMOS YA, PASTORES,	Mi	m
+VAMOS A BELÉN.	Mi	m
+PA RA RAM PAM PAM,	Si	7
+PA RA RAM PAM PAM.	Mi	m
+Su madre, María,	Mi	m	Si	7
+su padre, José.	Mi	m
+Ha nacido un niño,	Si	7
+se llama Emmanuel.	Mi	m
+ALEGRÍA, ALEGRÍA...	Mi	m
+ALEGRÍA, ALEGRÍA.	Si	7
+ALEGRÍA, ALEGRÍA:	Mi	m
+VAMOS YA, PASTOREs 	Mi	m
+VAMOS A BELÉN,	Si	7
+QUE HA NACIDO UN NIÑO,	Mi	m
+SE LLAMA EMMANUEL.	Mi	m
+SE LLAMA EMMANUEL,	Mi	m
+SE LLAMA EMMANUEL,	Si	7
+VAMOS YA, PASTORES,	Mi	m
+VAMOS A BELÉN.	Mi	m
+PA RA RAM PAM PAM,	Si	7
+PA RA RAM PAM PAM.	Mi	m
