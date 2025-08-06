@@ -1,4 +1,4 @@
-BENDITO SEA DIOS	Re	Mi m	La	7	Re
+BENDITO SEA DIOS	Re		Mi	m	La	7	Re
 Y PADRE DE JESUCRISTO.	Mi	m	La	7	Re
 
 Que nos ha bendecido	Fa#
@@ -13,7 +13,7 @@ DE LA GLORIA DE SU GRACIA,	La
 DE LA GRACIA DE SU AMOR,	Sol
 CON LA QUE NOS AMÓ EN JESUCRISTO.	Fa#
 
-A BENDITO SEA DIOS ...	Re	Mi	m	La	7	Re
+BENDITO SEA DIOS ...	Re	Mi	m	La	7	Re
 --------------------------------	Fa#	Si	m
 En Él tenemos la redención,	Fa#
 el perdón de los pecados,	Si	m
