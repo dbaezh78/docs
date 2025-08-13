@@ -1,0 +1,29 @@
+Cristo es la Luz.	Do
+CRISTO ES LA LUZ.	La	m
+Cristo es la Luz.	Re	m
+CRISTO ES LA LUZ.	Sol
+ÉL ES LA SALVACIÓN.	Do
+
+Cristo es el Camino.	Do
+CRISTO ES EL CAMINO.	La	m
+Cristo es el Camino.	Re	m
+CRISTO ES EL CAMINO.	Sol
+ÉL ES LA SALVACIÓN.	Do
+
+Cristo es la Verdad.	Do
+CRISTO ES LA VERDAD.	La	m
+Cristo es la Verdad.	Re	m
+CRISTO ES LA VERDAD.	Sol
+ÉL ES LA SALVACIÓN.	Do
+
+Cristo es la Vida.	Do
+CRISTO ES LA VID	La	m
+Cristo es la Vida.	Re	m
+CRISTO ES LA VID	Sol
+ÉL ES LA SALVACIÓN.	Do
+
+Cristo es la Luz.	Do
+CRISTO ES EL CAMINO.	La	m
+Cristo es la Verdad.	Re	m
+CRISTO ES LA VID	Sol
+ÉL ES LA SALVACIÓN.	Do
