@@ -8,6 +8,7 @@ Hosanna en lo alto del Cielo.	Fa		Mi
 HOSANNA EN LO ALTO DEL CIELO.	Fa		Mi	
 A SANTO,SANTO,SANTO.	La	m	Sol		La	m
 SANTO,SANTO,SANTO.	Sol		La	m
+-----------------------------------
 Bendito es el que viene	La	m	Sol	
 en el nombre del Señor.	La	m
 BENDITO ES EL QUE VIENE	Sol	

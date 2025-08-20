@@ -9,7 +9,8 @@ ESTÁN LLENOS DE TI.	Sol	m	Re	m
 Hosanna en el cielo,	Sol	m	Re	m		
 hosanna.	Sol	m	Re	m		
 HOSANNA EN EL CIELO,	Sol	m	Re	m		
-HOSANNA.	Sol	m	Re	m		
+HOSANNA.	Sol	m	Re	m
+----------------------------------------------
 SANTO, ES SANTO, SANTO, ES SANTO...	Re	m				
 SANTO, ES SANTO, SANTO, ES SANTO;	Fa					
 SANTO, ES SANTO; YAHVEH SEBAOTH.	Sol	m	Re	m		
