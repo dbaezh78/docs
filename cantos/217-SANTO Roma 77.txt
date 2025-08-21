@@ -1,25 +1,23 @@
-SANTO,SANTO,SANTO,	Rem	
-SANTO,SANTO,SANTO,	Solm	
-SANTO,SANTO,SANTO,	La	
-SANTO ES EL SEÑOR.	Sol	m	La	
-YAHVEH SEBAOTH,	Sol	m	La	
-YAHVEH SEBAOTH.	Sol	m	La	
-Los cielos	Re	m	Sol	m
-y la tierra	Rem	
-están llenos,	Solm	
-están llenos de Ti.	La	
-HOSANNA, HOSANNA,	Re	m
-HOSANNA, HOSANNA.	La	
-HOSANNA, HOSANNA,	Rem	
-HOSANNA, HOSANNA,	La	
-HOSANNA EN LO ALTO DEL CIELO,	Solm	La	
-HOSANNA, HOSANNA.	Sol	m	La	
-Bendito	Rem	Sol	m
-es el que viene,	Rem	
-en el nombre,	Sol	m
-en el nombre del Señor.	La	
-HOSANNA, HOSANNA,	Re	m
-HOSANNA, HOSANNA.	La	
-HOSANNA, HOSANNA,	Rem	
-HOSANNA, HOSANNA,	La	
-HOSANNA EN LO ALTO DEL CIELO,	Solm	La
+SANTO,SANTO,SANTO,	La	m
+SANTO,SANTO,SANTO.	Sol		La	m
+Los cielos y la tierra	La	m	Sol		La	m
+están llenos, están llenos de Ti.	Sol		La	m
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Sol
+EN LO ALTO DEL CIELO.	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Sol
+EN LO ALTO DEL CIELO.	La	m
+---------------------------------
+SANTO,SANTO,SANTO,	La	m
+SANTO,SANTO,SANTO.	Sol		La	m
+Bendito es el que viene,	La	m	Sol		La	m
+en el nombre, en el nombre del Señor.	Sol		La	m
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Mi
+HOSANNA, HOSANNA,	Fa		Sol
+EN LO ALTO DEL CIELO.	La	m
+SANTO,SANTO,SANTO,	La	m
+SANTO,SANTO,SANTO.	Sol		La	m
