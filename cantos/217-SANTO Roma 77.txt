@@ -13,15 +13,13 @@ HOSANNA, HOSANNA.	La
 HOSANNA, HOSANNA,	Rem	
 HOSANNA, HOSANNA,	La	
 HOSANNA EN LO ALTO DEL CIELO,	Solm	La	
-HOSANNA, HOSANNA.	Sol	m	La
---------------------------
+HOSANNA, HOSANNA.	Sol	m	La	
 Bendito	Rem	Sol	m
-es el que viene,	Re	m
+es el que viene,	Rem	
 en el nombre,	Sol	m
 en el nombre del Señor.	La	
 HOSANNA, HOSANNA,	Re	m
 HOSANNA, HOSANNA.	La	
-HOSANNA, HOSANNA,	Re	m	
+HOSANNA, HOSANNA,	Rem	
 HOSANNA, HOSANNA,	La	
-HOSANNA EN LO ALTO DEL CIELO,   Sol	m	La
-HOSANNA, HOSANNA,	Sol	m	La
+HOSANNA EN LO ALTO DEL CIELO,	Solm	La
