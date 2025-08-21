@@ -16,6 +16,7 @@ para un combate,	Mi
 contra el que monta en el caballo	Fa
 y lleva el manto lleno de sangre,	Sol		Fa
 lleno de sangre.	Mi
+----------------------------------------
 ÉL PISA SOLO EN EL LAGAR	La	m
 DE LA FURIOSA CÓLERA DE DIOS.	Mi		La	m
 Veo la bestia que es capturada,	Do		Mi
@@ -26,7 +27,7 @@ ALELUYA, ALELUYA,	La	m	Mi
 ALELUYA, ALELUYA,	La	m
 ALELUYA, ALELUYA,	Mi
 ¡ALELUYA!	La	m
-C. ¿Cuál es su nombre?	Do
+¿Cuál es su nombre?	Do
 ¿Cuál es su nombre?
 SU NOMBRE ES,	Mi
 SU NOMBRE ES	Mi
