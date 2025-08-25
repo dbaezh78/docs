@@ -1,4 +1,4 @@
-EXTIENDO MIS MANOS,	Re	Si	m	Sol
+EXTIENDO MIS MANOS,	Re		Si	m	Sol
 EXTIENDO MIS MANOS,	Mi		La
 Y GRITO AL SEÑOR ,	Sol		Re
 Y GRITO AL SEÑOR.	La		Re
@@ -6,7 +6,7 @@ Abbá, Padre mío,	Fa#
 Abbá, Padre mío.	Sol		Fa#
 En tus manos encomiendo mi espíritu,	Mi		La
 en tus manos encomiendo mi espíritu.	Sol		Re		La		Re
-EXTIENDO MIS MANOS,...	Re	Si	m	Sol
+EXTIENDO MIS MANOS,...	Re		Si	m	Sol
 EXTIENDO MIS MANOS,	Mi		La
 Y GRITO AL SEÑOR ,	Sol		Re
 Y GRITO AL SEÑOR.	La		Re
@@ -15,7 +15,7 @@ es el signo de su Cruz,	La
 y el estar derecho	Sol		Re
 es el leño alzado,	La
 es el leño alzado.	Re
-EXTIENDO MIS MANOS,...	Re	Si	m	Sol
+EXTIENDO MIS MANOS,...	Re		Si	m	Sol
 EXTIENDO MIS MANOS,	Mi		La
 Y GRITO AL SEÑOR ,	Sol		Re
 Y GRITO AL SEÑOR.	La		Re
