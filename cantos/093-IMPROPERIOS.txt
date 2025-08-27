@@ -1,0 +1,30 @@
+¡OH PUEBLO MÍO! ¡OH PUEBLO MÍO!	Mi	m		
+¿QUÉ MAL YO TE HE HECHO?				
+¿QUÉ MAL YO TE HE HECHO?	La	m		
+¿EN QUÉ TE HE CONTRISTADO?				
+RESPÓNDEME.	Si	7		
+¿EN QUÉ TE HE CONTRISTADO?	La		La	m6
+Yo te he hecho salir de Egipto,	La	m		
+yo te he abierto el mar en dos partes,	La	m		
+yo te he liberado del Faraón				
+y tú, y tú, me has preparado la cruz.	Si	7		
+¡OH PUEBLO MÍO ...	Mi	m		
+Yo te he abierto un camino en el desierto,	La	m	La	m6
+yo te he alimentado con el maná,	La	m	La	m6
+te he introducido en la Tierra Prometida,	La	m		
+y tú, y tú, me has preparado la cruz.	Si	7		
+¡OH PUEBLO MÍO ...	Mi	m		
+-----------------------------------------------
+¿Qué más he podido hacer por ti	La	m
+que no haya hecho?	La	m6
+Yo te llamé: «Mi viña amada»,	La	m
+y tú, y tú me has dado fruto amargo.	Si	7
+Hágios o Théos,	La	m
+SANCTUS DEUS.	Si	7
+Hágios lschyrós,	La	m
+SANCTUS FORTIS.	Si	7
+Hágios Athánatos,	La	m
+ELÉISON HIMÁS.	Si	7
+Sanctus et inmortalis,	La	m
+MISERERE NOBIS.	Si	7
+¡OH PUEBLO MÍO ...	Mi	m
