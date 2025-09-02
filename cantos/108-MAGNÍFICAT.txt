@@ -2,8 +2,7 @@ PROCLAMA MI ALMA	Re
 LA GRANDEZA DEL SEÑOR,	Mi	
 SE ALEGRA MI ESPÍRITU	
 EN DIOS MI SALVADOR.	Re	
-La Mi La	La	Mi		La
-La Mi	
+	La Mi La
 Desde ahora me felicitarán	La	
 todas las generaciones.	
 DESDE AHORA ME FELICITARÁN	Mi	
@@ -18,9 +17,10 @@ SU NOMBRE ES SANTO.	Mi		La
 dispersa a los soberbios de corazón.	La	
 ÉL HACE PROEZAS CON SU BRAZO:	Mi	
 DISPERSA A LOS SOBERBIOS DE CORAZÓN.	La	
+----------------------------------------
 Derriba a los poderosos	Re		La	
-y ensalza a los humildes.	Mi		La	7)
-LOS HAMBRIENTOS	Re	
+y ensalza a los humildes.	Mi		La
+LOS HAMBRIENTOS	La	7	Re
 COLMA DE BIENES	La	
 Y A LOS RICOS DESPIDE VACÍOS.	Mi		La	
 Auxilia a Israel, su siervo,	La	Mi	
