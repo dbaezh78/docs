@@ -14,6 +14,7 @@ EL AUXILIO ME VIENE DEL SEÑOR,	Do		Sol
 QUE HIZO EL CIELO Y LA TIERRA.	Re		Do		Sol
 EL AUXILIO ME VIENE DEL SEÑOR,	Do		Re	7	Sol
 QUE HIZO EL CIELO Y LA TIERRA.	Do		Re	7	Sol
+-----------------------------------------------------------
 El Señor te guarda a su sombra,	Sol		Si	m
 Él está a tu derecha;	Do		Re	7	Sol
 de día el sol no te hará daño,	Do		Sol
