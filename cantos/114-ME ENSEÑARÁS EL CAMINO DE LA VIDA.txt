@@ -21,6 +21,7 @@ ME ENSEÑARÁS EL CAMINO DE LA VIDA,...	La	m	Fa
 ME ENSEÑARÁS EL CAMINO DE LA VIDA,	Re	m	La	m
 ME SACIARÁS DE GOZO EN TU PRESENCIA,	Mi	
 DE ALEGRÍA PERPETUA A TU DERECHA.	Re	m	Mi	
+---------------------------------------------------
 Por eso se alegra mi corazón,	La	m	Fa	
 exulta mi alma,	Re	m	La	m
 y mi carne descansa serena;	Mi	
