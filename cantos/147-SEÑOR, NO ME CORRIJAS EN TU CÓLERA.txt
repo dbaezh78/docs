@@ -1,4 +1,4 @@
-SEÑOR, NO ME CORRIJAS EN TU CÓLERA,	Fa#	5/9	dlm*	Sol		Fa#	
+SEÑOR, NO ME CORRIJAS EN TU CÓLERA,	Fa#	5/9	dim*	Sol		Fa#	
 EN TU FUROR NO ME CASTIGUES.	Sol		Fa#	
 Ten piedad de mí, ten piedad Señor,	Sim		La	
 que estoy sin fuerzas,	Fa#	
@@ -18,6 +18,7 @@ TE RECUERDA, NI EN LOS INFIERNOS	Fa#		La
 SE CANTA TU ALABANZA.	Fa#	
 SEÑOR, NO ME CORRIJAS EN TU CÓLERA...	Fa#	5/9	dlm*	Sol		Fa#	
 EN TU FUROR NO ME CASTIGUES.	Sol		Fa#	
+-----------------------------------------------------
 Estoy cansado de gemir,	Sim	
 inundo de lágrimas mi cama,	La		Sim	
 mis ojos se consumen en la angustia,	La	
