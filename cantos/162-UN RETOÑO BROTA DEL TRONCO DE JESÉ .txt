@@ -22,7 +22,8 @@ ESPÍRITU DE CIENCIA Y DE PIEDAD,	Do		Sol
 ESPÍRITU DE TEMOR DEL SEÑOR.	Re		Sol	
 La vaca y la osa estarán juntas,	Do		Sol	
 el león, como el buey, comerá paja.	Do		Sol	
-El niño de pecho hurgará	Re	
+El niño de pecho hurgará	Re
+--------------------------------------------------
 en el agujero del áspid,	Sol	
 el recién nacido meterá la mano	Do	
 en la hura de la víbora.	Sol	
