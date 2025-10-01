@@ -21,7 +21,8 @@ Calma,	Mi	m
 CALMA,	
 tú este fuego, TÚ ESTE FUEGO,	La	m
 ven, VEN,	Si	7
-¡Señor Jesús! ¡SEÑOR JESÚS!	Mi	m	
+¡Señor Jesús! ¡SEÑOR JESÚS!	Mi	m
+-----------------------------------------------------
 La Esposa dice: ¡Ven!	Do		Mi	m
 Y el que escucha diga: ¡Ven!	Do		Si	7
 ¡VEN! ¡VEN! ¡VEN!	
