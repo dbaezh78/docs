@@ -13,7 +13,7 @@ Santa María Magdalena.
 San Esteban.	
 San Ignacio de Antioquía.	
 San Lorenzo.	
-Santas Perpetua y Felicidad.	Sol		Mi	m	
+Santas Perpetua y Felicidad.	Sol		Mi	m
 Santa Inés.	Sol		Mi	m	
 San Gregorio.	
 San Agustín.	
@@ -24,6 +24,7 @@ San Benito.
 Santos Francisco y Domingo.	Sol		Mi	m	
 San Francisco Javier.	
 San Juan María Vianney.	
+-------------------------------------
 SEÑOR, TEN PIEDAD.	
 CRISTO, TEN PIEDAD.	
 SEÑOR, TEN PIEDAD.	
