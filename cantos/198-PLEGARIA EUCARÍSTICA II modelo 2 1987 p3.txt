@@ -5,17 +5,20 @@ y el cáliz de salvación,	Mi	m
 y te damos gracias	La	m
 porque nos haces dignos de servirte en tu presencia.	Mi	m
 Te pedimos humildemente	Sol	
-que el Espíritu Santo congregue en la unidad	Sim	
+que el Espíritu Santo congregue en la unidad	Si	m	
 a cuantos participamos	La	m
 del Cuerpo y Sangre de Cristo.	Mi	m
 P Acuérdate, Señor, de tu Iglesia	Sol	
 extendida por toda la tierra;	Mi	m
-y con el Papa ... N/,	La	m
-con nuestro obispo ... N/.	Mi	m
+y con el Papa ... La	m
+N/
+con nuestro obispo ...	Mi	m
+N/.	
 y de todos los que en ella cuidan de tu pueblo,	La	m
 llévala a su perfección por la caridad.	Sol		Si	m	Mi	m
 Acuérdate también de nuestros hermanos	Sol	
-que durmieron en la esperanza de la resurrección,	Sim	
+que durmieron en la esperanza de la resurrección,	Si	m	
+-----------------------------------------------------------
 y de todos los que han muerto	La	m
 en tu misericordia;	Mi	m
 admítelos a contemplar la luz de tu rostro.	Sol		Si	m	Mi	m
@@ -26,10 +29,10 @@ los apóstoles	La	m
 y cuantos vivieron en tu amistad	Mi	m
 a través de los tiempos	
 merezcamos, por tu Hijo Jesucristo,	Sol	
-compartir la vida eterna	Sim	
+compartir la vida eterna	Si	m	
 y cantar tus alabanzas.	La		Mi	m
 P. Por Cristo, con Cristo y en Cristo,	Sol	
-a ti, Dios Padre omnipotente,	Sim	
+a ti, Dios Padre omnipotente,	Si	m	
 en la unidad del Espíritu Santo,	La	m
 todo honor y toda gloria	Mi	m
 por los siglos de los siglos.	Sol	
