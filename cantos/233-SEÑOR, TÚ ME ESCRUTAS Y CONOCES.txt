@@ -15,7 +15,8 @@ ciencia tan alta, que yo no la entiendo.	Sol	m	La
 ¿A DÓNDE DE TU ROSTRO ESCAPARÉ?	Si♭	
 SI SUBO HASTA EL CIELO, ALLÍ ESTÁS TÚ,	La	
 SI DESCIENDO HASTA LA MUERTE,	Si♭	
-ALLÍ TE ENCUENTRO.	La	
+ALLÍ TE ENCUENTRO.	La
+---------------------------------------------------
 ME ACOSAS POR DETRÁS,	Fa	
 ME ATACAS POR DELANTE,	La	m
 Y AL MISMO TIEMPO	
