@@ -1,0 +1,43 @@
+Acceso Total (* / Administrador)
+Ver Ajustes: Canto
+Ajustes: General 
+    Gral Común
+    Cloud
+Ajustes: Tema
+    Tema Visual
+        Barra
+        Libro
+        Canto
+        Etapa
+        Botones
+        Navegador
+    Inicio
+    Preparación
+    Perfil
+Ajustes: Canto
+Ajustes: Usuario
+    Cuenta
+    Acceso
+        Miembros
+        Grupos
+        Miembros Internos
+        Permisos
+        Inspector
+    Uso App
+Ajustes: Datos
+Ajustes: Log
+    LOG
+    Estado Resucitó
+
+
+
+Ver Ajustes: Usuario
+Ver Ajustes: Datos
+Editar Digitaciones y Acordes
+Ver Libro Resucitó
+Ver Libro Canto Joven
+Ver Libro Aclamaciones
+Ver Libro Salmodias
+Ver Libro Catequesis
+Ver Favoritos
+Ver Libro Extras (Exclusivo)
